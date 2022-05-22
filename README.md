@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-Html & CSS are so much fun!
+Html & CSS을 이용한 kakaoTalk Clone
