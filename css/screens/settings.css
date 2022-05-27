@@ -16,3 +16,17 @@
 .settings__setting-column:last-child {
   opacity: 0.4;
 }
+
+@keyframes FadeInSetting {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.settings-list {
+  animation: FadeInSetting 1s ease-in-out forwards;
+}
