@@ -47,6 +47,11 @@
   display: flex;
   animation: ReceiveFadeIn 1.5s linear;
 }
+.message-row-2 {
+  opacity: 0;
+  animation: ReceiveFadeIn 1.5s forwards;
+  animation-delay: 3s;
+}
 
 .message-row img {
   border-radius: 21px;
